@@ -72,8 +72,7 @@ function readFromDatabase(partOfDatabase){
   newDiv.appendChild(rightDiv);
   output.appendChild(newDiv);
 
-  
-  <div data-aos="fade-right"></div>
+
 
 }
 
